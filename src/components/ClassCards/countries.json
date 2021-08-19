@@ -1,0 +1,38 @@
+[
+    {
+        "name":"Afghanistan",
+    "alpha3Code":"AFG", 
+    "flag":"https://restcountries.eu/data/afg.svg",
+    "continent": "Asia" },
+    
+    {
+        "name":"Åland Islands",
+    "alpha3Code":"ALA",
+    "flag":"https://restcountries.eu/data/ala.svg",
+    "continent": "Europe" },
+    
+    {
+        "name":"Albania", 
+    "alpha3Code":"ALB", 
+    "flag":"https://restcountries.eu/data/alb.svg",
+    "continent": "Europe" },
+    
+    {
+        "name":"Bahamas", 
+    "alpha3Code":"BHS", 
+    "flag":"https://restcountries.eu/data/bhs.svg",
+    "continent": "North America" },
+    
+    {
+        "name":"Bahrain", 
+    "alpha3Code":"BHR", 
+    "flag":"https://restcountries.eu/data/bhr.svg",
+    "continent": "Asia" },
+    
+    {
+        "name":"Bangladesh", 
+    "alpha3Code":"BGD", 
+    "flag":"https://restcountries.eu/data/bgd.svg",
+    "continent": "Asia" }
+
+]

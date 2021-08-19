@@ -1,0 +1,87 @@
+.main{
+    border-radius: 25px;
+    background-color: #505050;
+    width:fit-content;
+    height: auto;
+    font-family: 'Product Sans';
+ filter:brightness(0.85);
+ margin-left: 17%;
+ margin-right: 17%;
+ text-shadow: 1px 1px 2px black;
+}
+
+
+.form {
+    display: inline;
+}
+
+.form input {
+    font-size: 20px;
+    font-weight: 500;
+    max-width: 200px;
+    color: white !important;
+    background-color: black;
+    text-align: center;
+    text-underline-position: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 17px;
+    border: 1px;
+    transition: 0.3s;
+}
+.form input:hover{
+    filter: brightness(0.5);
+    transition: 0.3s;
+    transform:scale(1.05)
+  
+}
+.form input::placeholder{
+    color: white;
+    font-size: 20px;
+    
+    font-weight: 500;
+}
+.form select {
+    text-align: center;
+    margin-top: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+   
+    border-radius: 17px;
+    font-size: 20px;
+    border: 1px;
+    color: white;
+    border-color: black;
+    background-color: black;
+    filter: brightness(1.7);
+}
+.form button {
+    margin-top: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+    border-radius: 17px;
+    border: 1px;
+    
+  
+    color: black ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    transition:0.3s;
+    border: 2px solid black;
+ margin-bottom: 25px;
+   
+}
+.form select :hover {
+    transform: scale(1.05);
+    transition: 0.3s;
+}
+.form button:hover {
+    
+    color: white;
+    background-color: black;
+    transition: 0.3s;
+   
+}
